@@ -33,7 +33,7 @@ It handles authentication, skills, questions, test attempts, and reporting APIs.
 --- 
 
 ## 📂 Project Structure
-
+```
 backend/
 │── src/
 │   ├── app.js              # Express app setup
@@ -54,6 +54,7 @@ backend/
 │── .gitignore
 │── package.json
 │── README.md
+```
 
 ---
 
