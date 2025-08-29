@@ -41,11 +41,9 @@ backend/
 │   ├── routes/             # All route definitions
 │   ├── controllers/        # Request handlers
 │   ├── services/           # Business logic
-│   ├── middlewares/        # Auth & error handling
-│   ├── models/             # Helper functions (cache, paginator, etc.)
-│   ├── migrations/         # Swagger docs
-│   ├── utils/              
-│   └── docs/               
+│   ├── middlewares/        # Auth & error handling      
+│   ├── utils/              # Helper functions (cache, paginator, etc.)
+│   └── docs/               # Swagger docs
 │
 │── tests/                  # Jest + Supertest test files
 │── docker-compose.yml      # Docker setup (Node + MySQL + Redis)
